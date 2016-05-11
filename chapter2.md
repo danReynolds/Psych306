@@ -93,7 +93,7 @@ P provide contrast in the retinal image, M provide info about how the image chan
 
 2. **Photopigment Regeneration**: Get large sensitivity range by the way photopigments are used up and replaced in receptor cells.
 
-In dim lighting conditions, lots of photopigment is available, and rods and cones absorb and respond ot as many photons as they can. Rods can detect a single quantum of light and perform better in dim light conditions.
+In dim lighting conditions, lots of photopigment is available, and rods and cones absorb and respond to as many photons as they can. Rods can detect a single quantum of light and perform better in dim light conditions.
 
 With lots of photons present, we throw them away and use a subset.
 

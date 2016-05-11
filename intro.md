@@ -36,19 +36,33 @@ Sensation S is related to intensity I by some exponent b. Sensation may rise wit
 
 Weber's law involves a clear objective measurement. We know how much we varied the stimulus, and either the observers can tell that the stimulus changed or they cannot.
 
-**Fechner's Law:** $S=k\log{R}$, where k is some constant, S is the perceived sensation and R is the actual intensity level.
+JND needs to get bigger at larger weights, harder to notice difference if we change 500lb to 501lb, vs 1lb to 2lb.
 
-Fechner's law assumes that all JNDs are perceptually equivalent, which is wrong.
+**Fechner's Law:** $S=k\log{R}$, where k is some constant, S is the perceived sensation and R is the actual intensity level. Need much more intensity for perceived changes to be noticeable as intensity grows.
 
-**Steven's Power Law**: no way to know if the data rater by $S=aI^{b}$ is objective right or wrong, just whether it is consistent.
+Fechner's law assumes that all JNDs are perceptually equivalent, which is wrong. Not all things are perceived at such a rate. We don't respond to all such sensory modalities in the same pattern.
+
+Light intensity has a different response curve than an electric shock, for example. Perceived intensity of electric shock is exponential, versus brightness which approaches logarithmic.
+
+**Steven's Power Law**: no way to know if the data rater by $S=aI^{b}$ is objective right or wrong, just whether it is consistent. Exponent is to calculate different perceived sensations, electric shock has an I of 3.5, but brightness is 0.3, meaning it becomes less noticeable a perceived intensity as intensity increases.
+
+Sweetness is similarly logarithmic, which is why pop is getting out of control in sugar content.
 
 **Cross-modality matching**: Ability to match the intensities of sensations that come from different sensory modalities. For example, trying to match the intensity of a light to the intensity of a sound.
 
 try to match perceived magnitudes across types of stimuli.
 
-doesn't work with taste, people can taste differently because of a molecule that some taste as bitter and other as not tasteful.
+Tweak length of a line to match sweetness, for example. Across different sensory modalities, doing a magnitude estimation to match them across domains. As things get suggary, lines get longer in an orderly way.
+
+Says for example that brightness of headlights are about the same as smell of back frying, when going from brightness to smell.
+
+Propylthiouracil: people have a gene to taste this as bitter for some and like nothing for others. The population is pretty strongly separated in their response to bitter flavours.
+
+Cross modality matching allows us to see the intensity differences by having people compare the taste to other modalities, and they rank the bitterness of this chemical over the sun as bright, whereas others say it isn't bright at all. Interesting.
 
 **supertasters** are those individuals who experience the most intense taste sensations, for some stimuli, that are dramatically more intense than for medium or nontasters. Oral burn sensation greater than most.
+
+Tongues of supertasters have tongues packed with more taste buds, by dying the tongue.  
 
 ## Signal Detection Theory:
 
@@ -62,17 +76,25 @@ signal in shower or just noise? Hard to discern.
 
 Best you can do is decide on a **criterion** level of response, an internal threshold that is set by the observer. If it sounds louder than that criterion, than it is indeed a stimulus, and not noise.
 
+Halfway between peaks is where you're not sure, closer to the phone peak than the shower peak is where you get a hit, versus a miss.
+
 By knowing hte relationship of hits to false alarms, can develop a **sensitivity measure** known as d-prime.
+
+**Sensitivity** = how well you can tell between the presence and absence of a signal
 
 Two curves, noise and signal plus noise, difference between peaks is the sensitivity.
 
-Now if you're waiting for an important call, can't be better, but can shift criterion, to catch more calls even if you get more false alarms too because of lower criterion.
+Now if you're waiting for an important call, can't be better, but can shift criterion, to catch more calls even if you get more false alarms too because of lower criterion. Adapt criterion with cost.
+
+Can change criterion as a result of fear, coffee, etc. Criterion changes with cancer, for example.
 
 If you plot false alarms against hits for different criterion values, you get a **receiver operating characteristic (ROC)** curve.
 
 ## Fourier Analysis
 
 Air pressure in a sine wave changes sinusoidally. Any complex sound can be broken down into individual sine wave components that can be analyzed.
+
+And can break into components and reconstruct these waves. Can add some to get superposition, cancellation.
 
 ## Doctrine of Specific Nerve Energies
 
