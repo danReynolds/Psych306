@@ -10,7 +10,7 @@ A **cycle** is one repetition of a black and a white stripe
 
 To get this angle, take the arctangent of the cycle length, opposite, and the viewing distance, adjacent.
 
-Under ideal conditions, humans with very good vision can resovle gratings like the ones in the textbook when one cycle subtends at an angle of aout 0.017 degree.
+Under ideal conditions, humans with very good vision can resolve gratings like the ones in the textbook when one cycle subtends at an angle of about 0.017 degree.
 
 This resolution acuity is one of the fundamental limits of spatial vision.
 
@@ -24,7 +24,7 @@ Rods and cones in the periphery are packed less tightly, and more rods than cone
 
 ## 20/20
 
-Visual angles and cycles aren't used by doctors, the 20/20 method of determining visual acuity was invented in 1862 by a Dutch eye doctor, Herman Snellen. Snellen constructed a set of block leetters for which the entire height of the letter was 5x the height of each stroke, so an 'E' has a height of 5, and each protruding horizontal line is 1.
+Visual angles and cycles aren't used by doctors, the 20/20 method of determining visual acuity was invented in 1862 by a Dutch eye doctor, Herman Snellen. Snellen constructed a set of block letters for which the entire height of the letter was 5x the height of each stroke, so an 'E' has a height of 5, and each protruding horizontal line is 1.
 
 He then defined **visual acuity** as:
 
@@ -85,7 +85,7 @@ Guiness World Record has 0.00024 for relative positioning.
 
 **Spatial Frequency** = the number of times a pattern, like a sine wave, repeats in a space.
 
-At 47 inches away, visual angle between pair of white stripes is about 0.25 degrees for example 3.6a), so that's 4 cycles per degree.
+At 47 inches away, visual angle between pair of white stripes is about 0.25 degrees for example 3.6a), so that's 4 cycles per degree. So 4 cycles of the stripes fall on one degree of the retina.
 
 Schade found that much wider stripes are worse for distinguishing light from dark stripes.
 
