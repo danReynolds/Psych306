@@ -134,4 +134,87 @@ Magnocellular respond to large, fast-moving objects, parvoceullular is responsib
 
 Each LGN has a map of a complete half of the visual field.
 
-p.65
+Fun fact:
+
+The LGN is part of a larger brain structure called the *thalammus*, and when you got to sleep, the entire thalamus is inhibited by circuitry elsewhere in thebrain that keeps you asleep. Even if your eyes were open, you would not see anything.
+
+## Striate cortex
+
+Striate/Primary visual cortex, below the *inion*, the bump on the back of your head.
+
+Consists of 6 major layers, has a systematic topographical mapping of the visual field. Striate cortex contains over 200 million cels, more than 100 times as many as the LGN.
+
+Uses **cortical magnification**, the cortical representation of the fovea is greatly magnified compared with the cortical representation of peripheral vision.
+
+Largest problem in the periphery is **visual crowding**. Visual crowding refers to the effect of clutter on peripheral object recognition. Objects that can be easily identified in isolation seem indistinct and jumbled in clutter.
+
+Crowded objects don't disappear, they appear *jumbled*, target and neighbouring ones are combined into a texture, simplifying the appearance of objects in the periphery by promoting consistent appearance of adjacent objects.
+
+## Receptive Fields in Striate cortex
+
+The receptive fields in the striate cortex neurons are not circular, they are elongated and respond more vigorously to bars, lines, edges and gratings than to spots of light.
+
+## Orientation Selectivity
+
+An individual neuron will not respond equivalently to any stripe in a receptive field. It responds best when the line or edge is at just the right orientation, and this selective responsiveness is called
+
+**orientation tuning**: the cell is tuned to detect lines in a specific orientation.
+
+Other cells in the striate cortex are selective for horizontal lines and lines at 45 degrees, 20 degrees and so on so the population of neurons as a whole detects all possible orientations.
+
+How are circular receptive fields in the LGN transformed into the elongated receptive fields in the striate cortex?
+
+Concentric LGN cells that feed into a cortical cell are all in a row. Arrangement of LGN inputs are essential for establishing the orientation selectivity of striate cortex cells.
+
+Like ganglion cells, cortical cells respond to gratings, especially those with the right spatial frequency to fill the receptive-field center.
+
+Cortical cells are much more narrowly tuned. These narrow tunings mean that each striate cortex neuron functions as a *filter*, for the portion of the image that excites the cell.
+
+Many cortical cells respond especially well to *moving* lines, bars, edges, and gratings.
+
+Info from both eyes is kept separate in the LGN, each LGN cell responds to one eye or the other, not both. But in the Striate cortex, a majority of cells can be influenced by input from either eye.
+
+But, they often have a preference, responding stronger to one eye than another, and this property of striate receptive fields is called **ocular dominance**.
+
+## Simple and Complex cells
+
+Complex cells are cortical neurons whose receptive fields do not have clearly defined excitatory or inhibitory regions. Like simple cells, each complex cell is tuned to a particular orientation and spatial frequency and shows an ocular preference.
+
+Whereas a simple cell responds only if a stripe is presented in the center of its receptive field, a complex cell responds regardless of whetere the stripe is presented, just has to be within the cell's receptive field.
+
+Simple cells = *phase sensitive*
+Complex cells = *phase insensitive*
+
+As with all other neurons in the visual system, the receptive fields of complex cells represent a pooling of the responses of several subunits.
+
+The subunits give the complex cell its spatial frequency and orientation tuning, but the complex pooling of its subunits make it insensitive to the precise position of the stimulus within its receptive field.
+
+## Further Complications
+
+**End stopping**: there are hypercomplex cells, that stop responding once you fill up past its receptive field. End stopping allows us to detect luminance boundaries and discontinuities.
+
+## Columns and HyperColumns
+
+Summary:
+
+each of the 200 million neurons in striate cortex respond to a distinctive set of stimulus properties: stripes, edges, and or gratings at a particular angle with a particular width or spatial frequency, possibly moving in a particular direction.
+
+Some neurons are simple cells and some are complex cells, and each one is end-stopped or not. Most neurons als respond preferentially to stimuli presented in one eye or another.
+
+Neurons with similar orientation preferences are arranged in **columns** that extendvertically through the cortex.
+
+Neurons that share the same ocular dominance also have a columnar arrangement.
+
+And preferred orientation and ocular dominance switch about every 0.5mm.
+
+Hubel and Wiesel proposed that a 1mm block of striate cortex, a **hypercolumn**, contains everything the visual cortex is responsible for, in a certain small part of the visual world.
+
+It contains at least two sets of columns, each covering every possible orientation with one set preferring input from the left eye and the other the right eye.
+
+## Concusion
+
+The Striate Cortex analyzes the orientation, size, shape, speed and direction of motion of objects in the world, and that it does so using modular groups of neurons, hypercolumns, each of which receives input from and processes small pieces of the visual world.
+
+Combining these hypercolumn filters is the job of other portions of the cortex downstream in the visual system.
+
+## Selective Adaptation: The Psychologist's Electrode

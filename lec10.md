@@ -110,3 +110,9 @@ Give priority to whole of a figure than its individual pieces. It's easier and f
 Find conjunctions of edges, interpret them quickly as strong evidence for 3D forms. A T junction means something is in front of something. A Y junction means that we are looking straight on at an object.
 
 ## Middle vision
+
+1. Bring together
+2. Split asunder
+3. Use what you know
+4. Avoid Accidents (What are the expected scenarios, not low probability ones, go with likely scenario)
+5. Seek Consensus (No Ambiguity)
