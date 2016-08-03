@@ -39,6 +39,9 @@ With age, lens becomes less flexible, and changes where the point of focus is.
 **Myopia** = light is focusing short of the retina, things close are okay, but far away become blurry
 **Hyperopia** = light is focusing beyond the retina, cannot see things close up as accurately
 **Stygmatism** = Person has a refraction problem in one of the eyes only. Have them look at straight edges and if the edge has a wobble in it, part of the eye is refracting it incorrectly.
+**Presbyopia** = old sight, lens gets harder and need bifocals for older people often.
+
+**cataracts** = opacity of the lens
 
 ## Other Layers in the Retina
 

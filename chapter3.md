@@ -218,3 +218,33 @@ The Striate Cortex analyzes the orientation, size, shape, speed and direction of
 Combining these hypercolumn filters is the job of other portions of the cortex downstream in the visual system.
 
 ## Selective Adaptation: The Psychologist's Electrode
+
+Can't do experiments on humans, often use animals, and to make inferences about humans, need to use **adaptation**:
+
+technique that gives psychologists a non-invasive electrode they can use to probe the human brain.
+
+Selective adaptation provides evidence that the human visual system contains neurons selective for spatial frequency and orientation.
+
+Selective adaptation causes the neurons most sensitive to the adapting stimulus to become fatigued. Neurons sensitive to spatial frequency of the adapting stimulus have their contrast sensitive reduced.
+
+Higher contrast is needed after adaptation, to stimulate these neurons. Neurons responsive to much higher or lower spatial frequencies are not fatigued by the adaptation procedure, so contrast sensitivity for these spatial frequencies is not affected.
+
+## Spatial Frequency - Tuned Pattern Analyzers in Human vision
+
+The human Context Sensitivity Function (CSF) reflects the sensitivity of multiple individual pattern analyzers. These pattern analyzers are implemented by ensembles of cortical neurons, with each set of cells tuned to a limited range of spatial frequencies and orientations and they are referred to as **spatial frequency channels**.
+
+Different spatial frequencies emphasize different types of information. Low frequencies emphasize broad outlines of the face, and high frequencies carry info about fine details.
+
+If we want to know how many people are in a scene, use low-frequency channels, while if we want to know if someone is smiling, use high-frequency channels.
+
+## Development of Spatial vision
+
+Most widely used method for studying infant vision is based on observations by Robert Fantz in the 60s:
+
+If infants are shown two scenes, they invariably stare at the more complex scene, with the most contours. If an infant is shown two patches, one containing stripes and the other uniform gray, the infant will prefer to look at the stripes.
+
+Or measure visual electrical potentials (VEPs) electrical signals from the brain that are evoked by visual stimul, by attaching electrodes to the scalp and measuring the changes. Can measure an entire CSF in 10s in a nonverbal infant.
+
+## Development of the Contrast Sensitivity Function
+
+Sensitivity to low spatial frequencies develops much more rapidly than sensitivity to high spatial frequencies. Low sensitivity cSF may reach near adult levels at 9 weeks of age, whereas higher continues to develop.

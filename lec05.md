@@ -6,7 +6,7 @@ The fovea is about 4 degrees of visual angle, very small part of vision is going
 
 Properties of the fovea and periphery in human vision:
 
-Property:             Foveaa:                Periphery:
+Property:             Fovea:                 Periphery:
 Photoreceptor Type    Mostly cones           Mostly rods
 Bipolar Cell Type     Midget                 Diffuse
 Convergence           Low                    high
@@ -32,13 +32,17 @@ If one tile is a 15, it will inhibits its neighbours, making them 4s as a repons
 
 If there's a strip of 15s, you knock down the frame around them, costing accuracy and uniformity. The strip of 15s become 14, 13, 13, 14 as a result of infuence from neighbours.
 
-This is **Lateral Inhibition**, neuronal mechanism that inhibits the response of nearby neurons.
+This is **Lateral Inhibition**, neuronal mechanism that inhibits the response of nearby neurons. The nearby neurons are not able to fire, making the contrast greater from 15 next to 14 to 15 next to 4.
 
 The more excited you get, the more you're inhibiting your neighbours, giving more contrast in these areas.
 
 Lateral inhibition sets contrast levels at edges, so because of what neighbours it, we can see a 15 in one spot as different from a 15 somewhere else because it neighbours 2s vs 5s.
 
 The contrast between two neighbouring things is caused by lateral inhibition.
+
+**transduce** = convert from one form of energy to another
+
+**visual acuity** = the finest detail that can be resolved by the eyes
 
 ### Mach Bands
 
@@ -50,7 +54,7 @@ Gray stripes from light to dark, each being the same color per stripe, will appe
 
 P-ganglion cells have more sustained firing.
 
-**M Ganglion Cells** = Get info from diffuse bipolar cells, which gets info from multiple rods and sends it to these M ganglion cells. Have good temporal resolution, but poor spatial resolution. One diffuse bipolar cells gets data from many rods, and sends that to the M ganglion cell, don't which rod you get the data from down the line, so poor for spatial, detailed vision.
+**M Ganglion Cells** = Get info from diffuse bipolar cells, which gets info from multiple rods and sends it to these M ganglion cells. Have good temporal resolution, but poor spatial resolution. One diffuse bipolar cells gets data from many rods, and sends that to the M ganglion cell, don't know which rod you get the data from down the line, so poor for spatial, detailed vision.
 
 Have more bursty firing, allowing for temporal resolution, can tell excitement apart better than the constant firing of P.
 

@@ -40,7 +40,7 @@ In peripheral vision, a bipolar cell receives input from as many as 50 photorece
 
 The fact that rods communicate with ganglion cells through diffuse bipolar cells largely accounts for the ability of the rod system to function well in dim lighting conditions.
 
-In the fovea, **midget bipolar cells** receive input from single cones and pass this info on to single ganglion cells. This one-to-one, cone to ganglion cell pathway only exsits in the fovea and accounts for why imgaes are most clear when they fall on this part of the retina.
+In the fovea, **midget bipolar cells** receive input from single cones and pass this info on to single ganglion cells. This one-to-one, cone to ganglion cell pathway only exsits in the fovea and accounts for why images are most clear when they fall on this part of the retina.
 
 Peripherals get high sensitivity to light, but poor acuity.
 

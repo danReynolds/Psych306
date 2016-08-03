@@ -114,7 +114,7 @@ A committee considers all possibilities and devalues any that involve accidental
 
 ## Figure and Ground
 
-Ability to distinguish figures of objects in the foreground from ground, surfaces or objects, lying behind the figures. Process governed by a collection of principles acting together. Rubin faces trick us by having it look like faces in the foreground, or a vase in the foreground.
+Ability to distinguish figures of objects in the foreground from ground, surfaces or objects, lying behind the figures. Process governed by a collection of principles acting together. Rubin vase tricks us by having it look like faces in the foreground, or a vase in the foreground.
 
 For the Rubin vase, we use:
 
@@ -142,7 +142,7 @@ If we have a box in front of a box, we can get  Y, T and arrow junctions, where 
 
 T junctions almost always occur when one surface occludes another, while Y and arrow junctions are usually corners and don't correspond to occlusion.
 
-These features are called **nonaccidental features** because they are features of an object that is not dependent on the viewping position of the observer.
+These features are called **nonaccidental features** because they are features of an object that is not dependent on the viewing position of the observer.
 
 ## Parts and Wholes
 
@@ -250,6 +250,6 @@ Receptive fields get bigger and bigger as you ascend the "what" pathway. The cel
 
 The act of object recognition is a conversation among many pieces of the brain rather than a progression from spots and lines to the activation of a grandmother cell in the inferotemporal complex.
 
-**Attention** to an object is critical in recognition of that object. Cells in different parts of the brain may behave differently before and after attention is directed to an object. Many of the brain structures critical for the deployment of attention lie in the pathh coming out of the primary visual cortex into the parietal lobe.
+**Attention** to an object is critical in recognition of that object. Cells in different parts of the brain may behave differently before and after attention is directed to an object. Many of the brain structures critical for the deployment of attention lie in the path coming out of the primary visual cortex into the parietal lobe.
 
-The first, rough acts of object recognition take place so fast that they must be accomplished by a one-pass, feed-forward sweep. But routine perception involves a conveersation among many pieces.
+The first, rough acts of object recognition take place so fast that they must be accomplished by a one-pass, feed-forward sweep. But routine perception involves a conv@ersation among many pieces.

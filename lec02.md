@@ -14,7 +14,7 @@ Case study research is retrospective, cares about what actually happened that ca
 
 ## EEG
 
-Measuring Event-Related Potentials (ERP), know exactly when it happened, can measure patterns of electrical activity non-evasively.
+Electroencephalogram, Measuring Event-Related Potentials (ERP), know exactly when it happened, can measure patterns of electrical activity non-evasively.
 
 ## MEG
 
@@ -103,7 +103,7 @@ $$
 S = aI^{b}
 $$
 
-How much louder follows an exponential pattern.
+How much louder follows an exponential pattern. It is the notion the perceived intensity S is exponentially related to the actual intensity or magnitude. Pressing a point on your skin gently vs moderately hard isn't that big a difference in intensity, but perceived intensity is much higher.
 
 ### How to Study?
 

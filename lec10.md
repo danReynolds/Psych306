@@ -116,3 +116,5 @@ Find conjunctions of edges, interpret them quickly as strong evidence for 3D for
 3. Use what you know
 4. Avoid Accidents (What are the expected scenarios, not low probability ones, go with likely scenario)
 5. Seek Consensus (No Ambiguity)
+
+Past midterms on Learn.
