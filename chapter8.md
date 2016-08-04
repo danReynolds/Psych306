@@ -42,7 +42,7 @@ When we stare at a waterfall for a while, the detectors sensitive to downward mo
 
 ## Time to Collision (TTC)
 
-We cannot calculate time for estimated distances and velocities fast enough to determine when an approaching frisbee will reach us, instead we use tau, information about the ratio of the retinal image size at any moment to the rate at which the image is expanding.
+We cannot calculate time for estimated distances and velocities fast enough to determine when an approaching frisbee will reach us, instead we use tau, information about the ratio of the retinal image size at any moment to the rate at which the image is expanding. It's this large and its getting bigger at this rate.
 
 As the frisbee approaches, the image of the frisbee on your retina will grow larger. The ratio of the retinal image size at any moment to the rate at which the image is expanding is tau and TTC is proportional to tau.
 

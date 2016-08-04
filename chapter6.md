@@ -40,9 +40,15 @@ It allows you to see depth.
 
 Competition between the two eyes for control of visual perception. Hold a finger in front of one eye, do you see the finger or see through the finger to the clock in the eye it is in front.
 
-Horopter = a surface containing all those points who images fall on corresponding parts of the retina of the two eyes.
+Horopter = a surface containing all those points who images fall on corresponding parts of the retina of the two eyes. Any object placed on the horopter will form images on corresponding retinal points and are seen as single objects with no binocular disparity between images received by the eyes.
 
-Panum's fusional area = region of space surrounding the horopter within which images on the two retinas can be fused.
+
+
+Panum's fusional area = region of space in front of and behind the horopter where we get two of each object we see, one from each eye, and this double vision is called **diplopia**. Further from the horopter, the larger the binocular disparity, objects will be further apart.
+
+**Crossed disparity** = disparity created by objects in front of the horopter, the plane of fixation. The term crossed is used because images of objects located in front of the horopter appear to be displaced to the left in the right eye and to the right in the left eye.
+
+**Uncrossed disparity** = disparity created by objects behind the horopter. The term uncrossed is used because images of objects located behind the horopter appear to be displaced to the right in the right eye and left in the left eye.
 
 If an object is within Panum's area, we fuse its two images into a single stereoscopic perception.
 

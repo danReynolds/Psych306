@@ -32,7 +32,7 @@ Tune things out, caused by getting ingrained in a book etc.
 
 ## Equilibrium
 
-Contender for another sense. Includes information about your spatial orientation, particularly the head. Helps you know which way is up.
+Contender for another sense. Includes information about your spatial orientation, particularly the head. Helps you know which way is up. Heard of it as the **Inner ear**. The semicircular canals share the same space with the cochlea in the inner ear.
 
 Vestibular nerve, labyrinth, sense orientation, movement and where gravity is. The three big loops are the semi-circular canals, in three different orientations.
 
@@ -41,6 +41,8 @@ The fluid in the canals will loop and move creating a waving motion that tips ov
 The actual sensory receptors are hair cells like in the cochlea.
 
 The Utricle and the Saccule are at the base of the loops of the semi-circular canals and are not responding to tilt, but to gravity. They are flat planar things with a gelatinous surface with small bumps on it to give it more mass. These are the ear stones, stuck to the gelatinous mass, when you lean, mass distribution shifts. It can sense linear acceleration. Determines how quickly you're accelerating in space, and which way is down.
+
+So helps with balance, can determine linear acceleration and which way is down.
 
 ## Touch is many different senses
 

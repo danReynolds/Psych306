@@ -8,7 +8,7 @@ Reaction time (RT) = the amount of time that elapses between the point when the 
 
 **Stimulus Onset Asynchrony** = the time between the onset of one stimulus and the onset of another.
 
-**Inhibition of Return** = The difficulty in getting attention to move back to a recently attended location. Look once, then look again and can't look as fast.
+**Inhibition of Return** = The dFifficulty in getting attention to move back to a recently attended location. Look once, then look again and can't look as fast.
 
 ## Spotlight of Attention
 
@@ -40,7 +40,7 @@ Basic features can be used to narrow down the search, even if they cannot elimin
 
 In **feature integration theory**, the basic features of color and orientation are available in a **preattentive stage** of processing, but we can't know how those features are bound together until we attend the object specifically. We can vaguely see something is red, but can we tell that its horizontal line is red versus its vertical just by parallel processing? Not as well.
 
-If you look at coloured letters quickly, you can match the wrong color to a letter in recall, this is called an **illusory conjuction**, you have matched things together that you shouldn't have.
+If you look at coloured letters quickly, you can match the wrong color to a letter in recall, this is called an **illusory conjunction**, you have matched things together that you shouldn't have.
 
 ## Attentional Blink
 
